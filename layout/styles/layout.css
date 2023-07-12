@@ -264,7 +264,8 @@ label span{color:#FF0000; background-color:inherit;}
 
 
 /* Rows */
-.row0, .row0 a{color:rgb(229, 238, 248); background-color:rgb(229, 238, 248);}
+.row0, .row0 a{color:black; background-color:rgb(229, 238, 248);}
+.row0, .row0 a{font-size: 13px;}
 .row1{color:rgb(229, 238, 248); background-color:rgb(229, 238, 248);}
 .row1 a{color:black; background-color:inherit;}
 .row2, .row2 a{color:#06213F; background-color:inherit;}
